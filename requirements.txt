@@ -1,0 +1,4 @@
+tortoise-orm
+fastapi
+pydantic
+uvicorn
